@@ -1,0 +1,17 @@
+{
+  "name": "travel-agency-backend",
+  "version": "1.0.0",
+  "description": "Lab 7 - Travel Agency Express API with MySQL (MVC, JOINs, validation)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["express", "mysql", "mvc", "travel-agency"],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
